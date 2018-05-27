@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo{
+  display: inline-flex;
+}
+
+.navi{
+  display: inline-flex;
+}
+
+.nav{
+  display: inline-block;
+}
+
+.mytimes{
+  color: MediumAquamarine;
+}
+
+.navtext{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
